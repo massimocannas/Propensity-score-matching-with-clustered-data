@@ -16,7 +16,7 @@ The article also contains an empirical analysis aimed at estimating the effect o
 The code for the empirical analysis is contained in file ???
 We thanks the "Osservatorio Eidemiologico" for kindly providing data. 
 
-\textit{Data Availability Statement}
+**Data Availability Statement**
 
 The empirical analysis presented in the paper is based on data provided by the Osservatorio Epidemiologico della Regione Sardegna. Access to these data was granted under a confidentiality agreement, and therefore they cannot be publicly shared. However, we provide the full code used for the empirical analysis, which can be easily adapted by other researchers interested in replicating or extending our study using their own datasets.
 
