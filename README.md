@@ -1,6 +1,7 @@
 # Propensity-score-matching-with-clustered-data
 
-This repository contains supplemental information for the article by B. Arpino and M. Cannas, *"Propensity score matching with clustered data. An application to the estimation of the impact of caesarean section on the Apgar score"* published in *Statistics in Medicine* (2016). [https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6880](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6880)
+This repository contains supplemental information for the article by B. Arpino and M. Cannas, *"Propensity score matching with clustered data. An application to the estimation of the impact of caesarean section on the Apgar score"* published in [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6880) (2016).
+
 
 Framework: causal inference for a binary treatment using observational data with both individual and group-level covariates. 
 In the article we compare the performance of the following algorithms aimed at reducing bias from unobserved cluster-level covariates:
