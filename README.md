@@ -15,7 +15,7 @@ All algorithms can be implemented in the R environment using the [CMatching](htt
 **Code for Empirical Analysis**
 
 The article presents a case study aimed at estimating the effect of caesarean section on the Apgar score using birth register data from Sardinian hospitals.
-The code for the empirical analysis is provided in this [file](./code_for_empirical_analysis.R)
+The code for the empirical analysis is provided in this [file](./code_for_empirical_analysis.R).
 This script relies only on the widely used [Matching](https://cran.r-project.org/web/packages/Matching/index.html) package and may therefore be preferred by researchers who wish to reproduce the analysis with greater flexibility or adapt the procedures beyond the predefined functions available in CMatching.
 
 
